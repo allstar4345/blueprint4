@@ -8,7 +8,8 @@ gem 'prototype-rails'
 
 gem 'sqlite3'
 
-
+gem 'gravatar_image_tag', '1.0.0'
+gem 'will_paginate', '3.0.2'
 # Gems used only for assets and not required
 # in production environments by default.
 group :assets do
